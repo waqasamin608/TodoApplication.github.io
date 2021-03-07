@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.First_div_wrapper{
+    display: flex;
+    justify-content: center;
+}
+.First_div_wrapper input{
+    margin: 5px;
+    padding: 5px;
+}
+#list{
+   text-align: center;
+   width: 250px;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+ul>li{
+   
+    margin: 10px;
+    border: 1px solid;
+}
+li>button{
+    margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
